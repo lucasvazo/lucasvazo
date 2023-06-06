@@ -10,7 +10,7 @@ My expertise:
 - Javascript & Typescript
 - Web3.js & Ethers.js
 
-I have a passion for leet code, complex front end implementations and optimized back end logicm breaking down complex problems (#DRY!).
+I have a passion for **leet code, complex front end implementations and optimized back end logic, breaking down complex problems (#DRY!)**.
 
 Want to get in touch? Check out my [portfolio](https://lucasvaz.info).
 
