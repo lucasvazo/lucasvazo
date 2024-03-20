@@ -4,10 +4,9 @@
 My expertise:
 - React.js + Libs
 - Node.js + Express.js
-- Javascript & Typescript
+- TypeScript/Javascript | Python | Solidity | PHP
 - Web3.js| Ethers.js | Hardhat | Foundry | Anvil
 - AWS
-- Solidity
 
 I have a passion for **leet code, complex front end implementations and optimized back end logic, breaking down complex problems (#DRY!)**.
 
